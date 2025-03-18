@@ -18,4 +18,4 @@ Challenge amigo secreto de aluraLatam
 6.  Para reiniciar el sorteo, agrega un nuevo nombre.
 
 
-Proyecto creado por \JoaquinHdez.
+Proyecto creado por JoaquinHdez.
